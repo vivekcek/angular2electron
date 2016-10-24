@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+    {
+	"name": "Launch main.js",
+	"type": "node",
+	"program": "${workspaceRoot}/main.js",
+	"stopOnEntry": false,
+	"args": [],
+	"cwd": "${workspaceRoot}/.",
+	"runtimeExecutable": "D:\\ng2-electron-master\\ng2-electron-master\\node_modules\\electron\\dist\\electron.exe",
+	"runtimeArgs": [],
+	"env": { },
+	"sourceMaps": false,
+	"outDir": null
+   }]
+}
